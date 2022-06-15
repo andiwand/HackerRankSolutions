@@ -47,3 +47,10 @@ https://www.hackerrank.com/andiwand
 | 8 | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | 20 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%208%3A%20Create%20a%20Button/) |
 | 8 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | 25 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%208%3A%20Buttons%20Container/) |
 | 9 | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | 30 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%209%3A%20Binary%20Calculator/) |
+
+# Functional Programming
+
+| Challenge | Points | Solution |
+|---|---|---|
+| [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list) | 10 | [solution.hs](Functional%20Programming/Filter%20Positions%20in%20a%20List/solution.hs) |
+| [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements) | 10 | [solution.hs](Functional%20Programming/Array%20Of%20N%20Elements/solution.hs) |
