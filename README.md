@@ -1,5 +1,25 @@
 https://www.hackerrank.com/andiwand
 
+# Tutorials
+
+## 30 Days of Code
+
+**TODO**
+
+| Day | Challenge | Points | Solution |
+|---|---|---|---|
+| | | | |
+
+## 10 Days of Statistics
+
+**TODO**
+
+| Day | Challenge | Points | Solution |
+|---|---|---|---|
+| | | | |
+
+## 10 Days of Javascript
+
 | Day | Challenge | Points | Solution |
 |---|---|---|---|
 | 0 | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world) | 10 | [solution.js](Tutorials/10%20Days%20of%20Javascript/Day%200%3A%20Hello%2C%20World!/solution.js) |
@@ -24,6 +44,6 @@ https://www.hackerrank.com/andiwand
 | 7 | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1) | 15 | [solution.js](Tutorials/10%20Days%20of%20Javascript/Day%207%3A%20Regular%20Expressions%20I/solution.js) |
 | 7 | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2) | 15 | [solution.js](Tutorials/10%20Days%20of%20Javascript/Day%207%3A%20Regular%20Expressions%20II/solution.js) |
 | 7 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3) | 15 | [solution.js](Tutorials/10%20Days%20of%20Javascript/Day%207%3A%20Regular%20Expressions%20III/solution.js) |
-| 8 | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | 20 | [Create a Button](Tutorials/10%20Days%20of%20Javascript/Day%208%3A%20Create%20a%20Button/) |
-| 8 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | 25 | [Buttons Container](Tutorials/10%20Days%20of%20Javascript/Day%208%3A%20Buttons%20Container/) |
-| 9 | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | 30 | [Binary Calculator](Tutorials/10%20Days%20of%20Javascript/Day%209%3A%20Binary%20Calculator/) |
+| 8 | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-create-a-button) | 20 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%208%3A%20Create%20a%20Button/) |
+| 8 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | 25 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%208%3A%20Buttons%20Container/) |
+| 9 | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | 30 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%209%3A%20Binary%20Calculator/) |
