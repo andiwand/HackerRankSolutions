@@ -4,15 +4,19 @@ https://www.hackerrank.com/andiwand
 
 ## 30 Days of Code
 
-**TODO**
-
 | Day | Challenge | Points | Solution |
 |---|---|---|---|
-| | | | |
+| 0 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%200%3A%20Hello%2C%20World./solution.py) |
+| 1 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%201%3A%20Data%20Types/solution.py) |
+| 2 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%202%3A%20Operators/solution.py) |
+| 3 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%203%3A%20Intro%20to%20Conditional%20Statements/solution.py) |
+| 4 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%204%3A%20Class%20vs.%20Instance/solution.py) |
+| 5 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%205%3A%20Loops/solution.py) |
+| 6 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%206%3A%20Let's%20Review/solution.py) |
+| 7 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%207%3A%20Arrays/solution.py) |
+| 8 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%208%3A%20Dictionaries%20and%20Maps/solution.py) |
 
 ## 10 Days of Statistics
-
-**TODO**
 
 | Day | Challenge | Points | Solution |
 |---|---|---|---|
