@@ -81,5 +81,10 @@ https://www.hackerrank.com/andiwand
 
 | Challenge | Points | Solution |
 |---|---|---|
+| [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first) | 3 | [solution.hs](Functional%20Programming/Solve%20Me%20First%20FP/solution.hs)
+| [Hello World](https://www.hackerrank.com/challenges/fp-hello-world) | 5 | [solution.hs](Functional%20Programming/Hello%20World/solution.hs) |
+| [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times) | 5 | [solution.hs](Functional%20Programming/Hello%20World%20N%20Times/solution.hs) |
+| [List Replication](https://www.hackerrank.com/challenges/fp-list-replication) | 10 | [solution.hs](Functional%20Programming/List%20Replication/solution.hs) |
+| [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array) | 10 | [solution.hs](Functional%20Programming/Filter%20Array/solution.hs) |
 | [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list) | 10 | [solution.hs](Functional%20Programming/Filter%20Positions%20in%20a%20List/solution.hs) |
 | [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements) | 10 | [solution.hs](Functional%20Programming/Array%20Of%20N%20Elements/solution.hs) |
