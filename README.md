@@ -15,6 +15,7 @@ https://www.hackerrank.com/andiwand
 | 6 | [Day 6: Let's Review](https://www.hackerrank.com/challenges/30-review-loop) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%206%3A%20Let's%20Review/solution.py) |
 | 7 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%207%3A%20Arrays/solution.py) |
 | 8 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%208%3A%20Dictionaries%20and%20Maps/solution.py) |
+| 9 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%209%3A%20Recursion%203/solution.py) |
 
 ## 10 Days of Statistics
 
@@ -46,6 +47,7 @@ https://www.hackerrank.com/andiwand
 | 7 | [Day 7: Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%207%3A%20Spearman's%20Rank%20Correlation%20Coefficient/solution.py) |
 | 8 | [Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%208%3A%20Least%20Square%20Regression%20Line/solution.py) |
 | 8 | [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%208%3A%20Pearson%20Correlation%20Coefficient%20II/solution.py) |
+| 9 | [Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%209%3A%20Multiple%20Linear%20Regression/solution.py) |
 
 ## 10 Days of Javascript
 
