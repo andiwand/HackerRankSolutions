@@ -49,6 +49,8 @@ https://www.hackerrank.com/andiwand
 | 8 | [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%208%3A%20Pearson%20Correlation%20Coefficient%20II/solution.py) |
 | 9 | [Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%209%3A%20Multiple%20Linear%20Regression/solution.py) |
 | 10 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2010%3A%20Binary%20Numbers/solution.py) |
+| 11 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2011%3A%202D%20Arrays/solution.py) |
+| 12 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2012%3A%20Inheritance/solution.py) |
 
 ## 10 Days of Javascript
 
