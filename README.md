@@ -95,3 +95,5 @@ https://www.hackerrank.com/andiwand
 | [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array) | 10 | [solution.hs](Functional%20Programming/Filter%20Array/solution.hs) |
 | [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list) | 10 | [solution.hs](Functional%20Programming/Filter%20Positions%20in%20a%20List/solution.hs) |
 | [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements) | 10 | [solution.hs](Functional%20Programming/Array%20Of%20N%20Elements/solution.hs) |
+| [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list) | 10 | [solution.hs](Functional%20Programming/Reverse%20a%20List/solution.hs) |
+| [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements) | 10 | [solution.hs](Functional%20Programming/Sum%20of%20Odd%20Elements/solution.hs) |
