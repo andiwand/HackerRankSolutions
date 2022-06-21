@@ -52,6 +52,7 @@ https://www.hackerrank.com/andiwand
 | 11 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2011%3A%202D%20Arrays/solution.py) |
 | 12 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2012%3A%20Inheritance/solution.py) |
 | 13 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2013%3A%20Abstract%20Classes/solution.py) |
+| 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2014%3A%20Scope/solution.py) |
 
 ## 10 Days of Javascript
 
