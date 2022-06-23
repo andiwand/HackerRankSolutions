@@ -86,11 +86,17 @@ https://www.hackerrank.com/andiwand
 | 8 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | 25 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%208%3A%20Buttons%20Container/) |
 | 9 | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | 30 | [Solution](Tutorials/10%20Days%20of%20Javascript/Day%209%3A%20Binary%20Calculator/) |
 
+# Problem Solving
+
+| Challenge | Points | Solution |
+|---|---|---|
+| [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | 15 | [solution.py](Problem%20Solving/Electronics%20Shop/solution.py) |
+
 # Functional Programming
 
 | Challenge | Points | Solution |
 |---|---|---|
-| [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first) | 3 | [solution.hs](Functional%20Programming/Solve%20Me%20First%20FP/solution.hs)
+| [Solve Me First FP](https://www.hackerrank.com/challenges/fp-solve-me-first) | 3 | [solution.hs](Functional%20Programming/Solve%20Me%20First%20FP/solution.hs) |
 | [Hello World](https://www.hackerrank.com/challenges/fp-hello-world) | 5 | [solution.hs](Functional%20Programming/Hello%20World/solution.hs) |
 | [Hello World N Times](https://www.hackerrank.com/challenges/fp-hello-world-n-times) | 5 | [solution.hs](Functional%20Programming/Hello%20World%20N%20Times/solution.hs) |
 | [List Replication](https://www.hackerrank.com/challenges/fp-list-replication) | 10 | [solution.hs](Functional%20Programming/List%20Replication/solution.hs) |
