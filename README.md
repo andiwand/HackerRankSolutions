@@ -16,6 +16,13 @@ https://www.hackerrank.com/andiwand
 | 7 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%207%3A%20Arrays/solution.py) |
 | 8 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%208%3A%20Dictionaries%20and%20Maps/solution.py) |
 | 9 | [Day 9: Recursion 3](https://www.hackerrank.com/challenges/30-recursion) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%209%3A%20Recursion%203/solution.py) |
+| 10 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2010%3A%20Binary%20Numbers/solution.py) |
+| 11 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2011%3A%202D%20Arrays/solution.py) |
+| 12 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2012%3A%20Inheritance/solution.py) |
+| 13 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2013%3A%20Abstract%20Classes/solution.py) |
+| 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2014%3A%20Scope/solution.py) |
+| 15 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2015%3A%20Linked%20List/solution.py) |
+| 16 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2016%3A%20Exceptions%20-%20String%20to%20Integer/solution.py) |
 
 ## 10 Days of Statistics
 
@@ -48,11 +55,6 @@ https://www.hackerrank.com/andiwand
 | 8 | [Day 8: Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%208%3A%20Least%20Square%20Regression%20Line/solution.py) |
 | 8 | [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%208%3A%20Pearson%20Correlation%20Coefficient%20II/solution.py) |
 | 9 | [Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression) | 30 | [solution.py](Tutorials/10%20Days%20of%20Statistics/Day%209%3A%20Multiple%20Linear%20Regression/solution.py) |
-| 10 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2010%3A%20Binary%20Numbers/solution.py) |
-| 11 | [Day 11: 2D Arrays](https://www.hackerrank.com/challenges/30-2d-arrays) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2011%3A%202D%20Arrays/solution.py) |
-| 12 | [Day 12: Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2012%3A%20Inheritance/solution.py) |
-| 13 | [Day 13: Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2013%3A%20Abstract%20Classes/solution.py) |
-| 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) | 30 | [solution.py](Tutorials/30%20Days%20of%20Code/Day%2014%3A%20Scope/solution.py) |
 
 ## 10 Days of Javascript
 
@@ -97,3 +99,4 @@ https://www.hackerrank.com/andiwand
 | [Array Of N Elements](https://www.hackerrank.com/challenges/fp-array-of-n-elements) | 10 | [solution.hs](Functional%20Programming/Array%20Of%20N%20Elements/solution.hs) |
 | [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list) | 10 | [solution.hs](Functional%20Programming/Reverse%20a%20List/solution.hs) |
 | [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements) | 10 | [solution.hs](Functional%20Programming/Sum%20of%20Odd%20Elements/solution.hs) |
+| [List Length](https://www.hackerrank.com/challenges/fp-list-length) | 10 | [solution.hs](Functional%20Programming/List%20Length/solution.hs) |
