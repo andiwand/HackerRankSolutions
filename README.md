@@ -92,6 +92,29 @@ https://www.hackerrank.com/andiwand
 |---|---|---|
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | 15 | [solution.py](Problem%20Solving/Electronics%20Shop/solution.py) |
 
+# C++
+
+| Challenge | Points | Solution |
+|---|---|---|
+| [Say "Hello, World!" With C++](https://www.hackerrank.com/challenges/cpp-hello-world) | 5 | [solution.cpp](C%2B%2B/Say%20%22Hello%2C%20World!%22%20With%20C%2B%2B/solution.cpp) |
+| [Input and Output](https://www.hackerrank.com/challenges/cpp-input-and-output) | 5 | [solution.cpp](C%2B%2B/Input%20and%20Output/solution.cpp) |
+| [Basic Data Types](https://www.hackerrank.com/challenges/c-tutorial-basic-data-types) | 10 | [solution.cpp](C%2B%2B/Basic%20Data%20Types/solution.cpp) |
+| [Conditional Statements](https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else) | 10 | [solution.cpp](C%2B%2B/Conditional%20Statements/solution.cpp) |
+| [For Loop](https://www.hackerrank.com/challenges/c-tutorial-for-loop) | 10 | [solution.cpp](C%2B%2B/For%20Loop/solution.cpp) |
+| [Functions](https://www.hackerrank.com/challenges/c-tutorial-functions) | 10 | [solution.cpp](C%2B%2B/Functions/solution.cpp) |
+| [Pointer](https://www.hackerrank.com/challenges/c-tutorial-pointer) | 10 | [solution.cpp](C%2B%2B/Pointer/solution.cpp) |
+| [Arrays Introduction](https://www.hackerrank.com/challenges/arrays-introduction) | 10 | [solution.cpp](C%2B%2B/Arrays%20Introduction/solution.cpp) |
+| [Variable Sized Arrays](https://www.hackerrank.com/challenges/variable-sized-arrays) | 30 | [solution.cpp](C%2B%2B/Variable%20Sized%20Arrays/solution.cpp) |
+| [StringStream](https://www.hackerrank.com/challenges/c-tutorial-stringstream) | 10 | [solution.cpp](C%2B%2B/StringStream/solution.cpp) |
+| [Strings](https://www.hackerrank.com/challenges/c-tutorial-strings) | 10 | [solution.cpp](C%2B%2B/Strings/solution.cpp) |
+| [Structs](https://www.hackerrank.com/challenges/c-tutorial-struct) | 10 | [solution.cpp](C%2B%2B/Structs/solution.cpp) |
+| [Class](https://www.hackerrank.com/challenges/c-tutorial-class) | 10 | [solution.cpp](C%2B%2B/Class/solution.cpp) |
+| [Classes and Objects](https://www.hackerrank.com/challenges/classes-objects) | 20 | [solution.cpp](C%2B%2B/Classes%20and%20Objects/solution.cpp) |
+| [Box It!](https://www.hackerrank.com/challenges/box-it) | 30 | [solution.cpp](C%2B%2B/Box%20It!/solution.cpp) |
+| [Virtual Functions](https://www.hackerrank.com/challenges/virtual-functions) | 40 | [solution.cpp](C%2B%2B/Virtual%20Functions/solution.cpp) |
+| [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | 10 | [solution.cpp](C%2B%2B/Vector-Sort/solution.cpp) |
+| [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | 10 | [solution.cpp](C%2B%2B/Vector-Erase/solution.cpp) |
+
 # Functional Programming
 
 | Challenge | Points | Solution |
