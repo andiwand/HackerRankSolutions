@@ -113,6 +113,21 @@ https://www.hackerrank.com/andiwand
 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | 10 | [solution.cpp](C%2B%2B/Vector-Sort/solution.cpp) |
 | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | 10 | [solution.cpp](C%2B%2B/Vector-Erase/solution.cpp) |
 
+# C
+
+| Challenge | Points | Solution |
+|---|---|---|
+| ["Hello World!" in C](https://www.hackerrank.com/challenges/hello-world-c) | 5 | [solution.c](C/%22Hello%20World!%22%20in%20C/solution.c) |
+| [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters) | 5 | [solution.c](C/Playing%20With%20Characters/solution.c) |
+| [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c) | 5 | [solution.c](C/Sum%20and%20Difference%20of%20Two%20Numbers/solution.c) |
+| [Functions in C](https://www.hackerrank.com/challenges/functions-in-c) | 10 | [solution.c](C/Functions%20in%20C/solution.c) |
+| [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c) | 10 | [solution.c](C/Pointers%20in%20C/solution.c) |
+| [Conditional Statements in C](https://www.hackerrank.com/challenges/conditional-statements-in-c) | 10 | [solution.c](C/Conditional%20Statements%20in%20C/solution.c) |
+| [For Loop in C](https://www.hackerrank.com/challenges/for-loop-in-c) | 10 | [solution.c](C/For%20Loop%20in%20C/solution.c) |
+| [Sum of Digits of a Five Digit Number](https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number) | 15 | [solution.c](C/Sum%20of%20Digits%20of%20a%20Five%20Digit%20Number/solution.c) |
+| [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c) | 15 | [solution.c](C/Bitwise%20Operators/solution.c) |
+| [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c) | 15 | [solution.c](C/Calculate%20the%20Nth%20term/solution.c) |
+
 # Functional Programming
 
 | Challenge | Points | Solution |
