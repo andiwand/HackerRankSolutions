@@ -1,6 +1,8 @@
+# HackerRank Solutions
+
 https://www.hackerrank.com/andiwand
 
-# 30 Days of Code
+## 30 Days of Code
 
 | Day | Challenge | Points | Solution |
 |---|---|---|---|
@@ -24,7 +26,7 @@ https://www.hackerrank.com/andiwand
 | 17 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) | 30 | [solution.py](30%20Days%20of%20Code/Day%2017%3A%20More%20Exceptions/solution.py) |
 | 18 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | 30 | [solution.py](30%20Days%20of%20Code/Day%2018%3A%20Queues%20and%20Stacks/solution.py) |
 
-# 10 Days of Statistics
+## 10 Days of Statistics
 
 | Day | Challenge | Points | Solution |
 |---|---|---|---|
@@ -56,7 +58,7 @@ https://www.hackerrank.com/andiwand
 | 8 | [Day 8: Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7) | 30 | [solution.py](10%20Days%20of%20Statistics/Day%208%3A%20Pearson%20Correlation%20Coefficient%20II/solution.py) |
 | 9 | [Day 9: Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression) | 30 | [solution.py](10%20Days%20of%20Statistics/Day%209%3A%20Multiple%20Linear%20Regression/solution.py) |
 
-# 10 Days of Javascript
+## 10 Days of Javascript
 
 | Day | Challenge | Points | Solution |
 |---|---|---|---|
@@ -86,13 +88,13 @@ https://www.hackerrank.com/andiwand
 | 8 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-buttons-container) | 25 | [Solution](10%20Days%20of%20Javascript/Day%208%3A%20Buttons%20Container/) |
 | 9 | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-binary-calculator) | 30 | [Solution](10%20Days%20of%20Javascript/Day%209%3A%20Binary%20Calculator/) |
 
-# Problem Solving
+## Problem Solving
 
 | Challenge | Points | Solution |
 |---|---|---|
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | 15 | [solution.py](Problem%20Solving/Electronics%20Shop/solution.py) |
 
-# C++
+## C++
 
 | Challenge | Points | Solution |
 |---|---|---|
@@ -115,7 +117,7 @@ https://www.hackerrank.com/andiwand
 | [Vector-Sort](https://www.hackerrank.com/challenges/vector-sort) | 10 | [solution.cpp](C%2B%2B/Vector-Sort/solution.cpp) |
 | [Vector-Erase](https://www.hackerrank.com/challenges/vector-erase) | 10 | [solution.cpp](C%2B%2B/Vector-Erase/solution.cpp) |
 
-# C
+## C
 
 | Challenge | Points | Solution |
 |---|---|---|
@@ -130,7 +132,7 @@ https://www.hackerrank.com/andiwand
 | [Bitwise Operators](https://www.hackerrank.com/challenges/bitwise-operators-in-c) | 15 | [solution.c](C/Bitwise%20Operators/solution.c) |
 | [Calculate the Nth term](https://www.hackerrank.com/challenges/recursion-in-c) | 15 | [solution.c](C/Calculate%20the%20Nth%20term/solution.c) |
 
-# Functional Programming
+## Functional Programming
 
 | Challenge | Points | Solution |
 |---|---|---|
