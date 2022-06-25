@@ -21,7 +21,8 @@ https://www.hackerrank.com/andiwand
 | 14 | [Day 14: Scope](https://www.hackerrank.com/challenges/30-scope) | 30 | [solution.py](30%20Days%20of%20Code/Day%2014%3A%20Scope/solution.py) |
 | 15 | [Day 15: Linked List](https://www.hackerrank.com/challenges/30-linked-list) | 30 | [solution.py](30%20Days%20of%20Code/Day%2015%3A%20Linked%20List/solution.py) |
 | 16 | [Day 16: Exceptions - String to Integer](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer) | 30 | [solution.py](30%20Days%20of%20Code/Day%2016%3A%20Exceptions%20-%20String%20to%20Integer/solution.py) |
-| 17 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) | 30 | [solution.py]() |
+| 17 | [Day 17: More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions) | 30 | [solution.py](30%20Days%20of%20Code/Day%2017%3A%20More%20Exceptions/solution.py) |
+| 18 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | 30 | [solution.py](30%20Days%20of%20Code/Day%2018%3A%20Queues%20and%20Stacks/solution.py) |
 
 # 10 Days of Statistics
 
@@ -143,3 +144,4 @@ https://www.hackerrank.com/andiwand
 | [Reverse a List](https://www.hackerrank.com/challenges/fp-reverse-a-list) | 10 | [solution.hs](Functional%20Programming/Reverse%20a%20List/solution.hs) |
 | [Sum of Odd Elements](https://www.hackerrank.com/challenges/fp-sum-of-odd-elements) | 10 | [solution.hs](Functional%20Programming/Sum%20of%20Odd%20Elements/solution.hs) |
 | [List Length](https://www.hackerrank.com/challenges/fp-list-length) | 10 | [solution.hs](Functional%20Programming/List%20Length/solution.hs) |
+| [Update List](https://www.hackerrank.com/challenges/fp-update-list) | 10 | [solution.hs](Functional%20Programming/Update%20List/solution.hs) |
