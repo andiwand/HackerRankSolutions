@@ -27,6 +27,7 @@ https://www.hackerrank.com/andiwand
 | 18 | [Day 18: Queues and Stacks](https://www.hackerrank.com/challenges/30-queues-stacks) | 30 | [solution.py](30%20Days%20of%20Code/Day%2018%3A%20Queues%20and%20Stacks/solution.py) |
 | 19 | [Day 19: Interfaces](https://www.hackerrank.com/challenges/30-interfaces) | 30 | [solution.py](30%20Days%20of%20Code/Day%2019%3A%20Interfaces/solution.py) |
 | 20 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) | 30 | [solution.py](30%20Days%20of%20Code/Day%2020%3A%20Sorting/solution.py) |
+| 21 | [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) | 30 | [solution.cpp](30%20Days%20of%20Code/Day%2021%3A%20Generics/solution.cpp) |
 
 ## 10 Days of Statistics
 
