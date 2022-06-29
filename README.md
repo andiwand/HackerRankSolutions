@@ -97,6 +97,7 @@ https://www.hackerrank.com/andiwand
 | Challenge | Points | Solution |
 |---|---|---|
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | 15 | [solution.py](Problem%20Solving/Electronics%20Shop/solution.py) |
+| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | 15 | [solution.py](Algorithms/Cats%20and%20a%20Mouse/solution.py) |
 
 ## C++
 
