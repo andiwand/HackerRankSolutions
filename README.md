@@ -29,6 +29,7 @@ https://www.hackerrank.com/andiwand
 | 20 | [Day 20: Sorting](https://www.hackerrank.com/challenges/30-sorting) | 30 | [solution.py](30%20Days%20of%20Code/Day%2020%3A%20Sorting/solution.py) |
 | 21 | [Day 21: Generics](https://www.hackerrank.com/challenges/30-generics) | 30 | [solution.cpp](30%20Days%20of%20Code/Day%2021%3A%20Generics/solution.cpp) |
 | 22 | [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | 30 | [solution.py](30%20Days%20of%20Code/Day%2022%3A%20Binary%20Search%20Trees/solution.py) |
+| 23 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | 30 | [solution.py](30%20Days%20of%20Code/Day%2023%3A%20BST%20Level-Order%20Traversal/solution.py) |
 
 ## 10 Days of Statistics
 
@@ -97,7 +98,8 @@ https://www.hackerrank.com/andiwand
 | Challenge | Points | Solution |
 |---|---|---|
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | 15 | [solution.py](Problem%20Solving/Electronics%20Shop/solution.py) |
-| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | 15 | [solution.py](Algorithms/Cats%20and%20a%20Mouse/solution.py) |
+| [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | 15 | [solution.py](Problem%20Solving/Cats%20and%20a%20Mouse/solution.py) |
+| [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | 15 | [solution.py](Problem%20Solving/The%20Hurdle%20Race/solution.py) |
 
 ## C++
 
