@@ -31,6 +31,7 @@ https://www.hackerrank.com/andiwand
 | 22 | [Day 22: Binary Search Trees](https://www.hackerrank.com/challenges/30-binary-search-trees) | 30 | [solution.py](30%20Days%20of%20Code/Day%2022%3A%20Binary%20Search%20Trees/solution.py) |
 | 23 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | 30 | [solution.py](30%20Days%20of%20Code/Day%2023%3A%20BST%20Level-Order%20Traversal/solution.py) |
 | 24 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | 30 | [solution.py](30%20Days%20of%20Code/Day%2024%3A%20More%20Linked%20Lists/solution.py) |
+| 25 | [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | 30 | [solution.py](30%20Days%20of%20Code/Day%2025%3A%20Running%20Time%20and%20Complexity/solution.py) |
 
 ## 10 Days of Statistics
 
