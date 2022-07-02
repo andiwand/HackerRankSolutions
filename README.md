@@ -102,6 +102,7 @@ https://www.hackerrank.com/andiwand
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | 15 | [solution.py](Problem%20Solving/Electronics%20Shop/solution.py) |
 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | 15 | [solution.py](Problem%20Solving/Cats%20and%20a%20Mouse/solution.py) |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | 15 | [solution.py](Problem%20Solving/The%20Hurdle%20Race/solution.py) |
+| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | 20 | [solution.py](Problem%20Solving/Designer%20PDF%20Viewer/solution.py) |
 
 ## C++
 
