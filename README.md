@@ -32,6 +32,7 @@ https://www.hackerrank.com/andiwand
 | 23 | [Day 23: BST Level-Order Traversal](https://www.hackerrank.com/challenges/30-binary-trees) | 30 | [solution.py](30%20Days%20of%20Code/Day%2023%3A%20BST%20Level-Order%20Traversal/solution.py) |
 | 24 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | 30 | [solution.py](30%20Days%20of%20Code/Day%2024%3A%20More%20Linked%20Lists/solution.py) |
 | 25 | [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | 30 | [solution.py](30%20Days%20of%20Code/Day%2025%3A%20Running%20Time%20and%20Complexity/solution.py) |
+| 26 | [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | 30 | [solution.py](30%20Days%20of%20Code/Day%2026%3A%20Nested%20Logic/solution.py) |
 
 ## 10 Days of Statistics
 
@@ -103,6 +104,7 @@ https://www.hackerrank.com/andiwand
 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | 15 | [solution.py](Problem%20Solving/Cats%20and%20a%20Mouse/solution.py) |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | 15 | [solution.py](Problem%20Solving/The%20Hurdle%20Race/solution.py) |
 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | 20 | [solution.py](Problem%20Solving/Designer%20PDF%20Viewer/solution.py) |
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | 20 | [solution.py](Problem%20Solving/Picking%20Numbers/solution.py) |
 
 ## C++
 
