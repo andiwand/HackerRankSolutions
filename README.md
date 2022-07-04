@@ -33,6 +33,7 @@ https://www.hackerrank.com/andiwand
 | 24 | [Day 24: More Linked Lists](https://www.hackerrank.com/challenges/30-linked-list-deletion) | 30 | [solution.py](30%20Days%20of%20Code/Day%2024%3A%20More%20Linked%20Lists/solution.py) |
 | 25 | [Day 25: Running Time and Complexity](https://www.hackerrank.com/challenges/30-running-time-and-complexity) | 30 | [solution.py](30%20Days%20of%20Code/Day%2025%3A%20Running%20Time%20and%20Complexity/solution.py) |
 | 26 | [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | 30 | [solution.py](30%20Days%20of%20Code/Day%2026%3A%20Nested%20Logic/solution.py) |
+| 27 | [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing) | 30 | [solution.py](30%20Days%20of%20Code/Day%2027%3A%20Testing/solution.py) |
 
 ## 10 Days of Statistics
 
