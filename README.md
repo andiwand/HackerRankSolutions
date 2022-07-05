@@ -107,6 +107,7 @@ https://www.hackerrank.com/andiwand
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | 15 | [solution.py](Problem%20Solving/The%20Hurdle%20Race/solution.py) |
 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | 20 | [solution.py](Problem%20Solving/Designer%20PDF%20Viewer/solution.py) |
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | 20 | [solution.py](Problem%20Solving/Picking%20Numbers/solution.py) |
+| [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | 20 | [solution.py](Problem%20Solving/Climbing%20the%20Leaderboard/solution.py) |
 
 ## C++
 
