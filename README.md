@@ -35,6 +35,7 @@ https://www.hackerrank.com/andiwand
 | 26 | [Day 26: Nested Logic](https://www.hackerrank.com/challenges/30-nested-logic) | 30 | [solution.py](30%20Days%20of%20Code/Day%2026%3A%20Nested%20Logic/solution.py) |
 | 27 | [Day 27: Testing](https://www.hackerrank.com/challenges/30-testing) | 30 | [solution.py](30%20Days%20of%20Code/Day%2027%3A%20Testing/solution.py) |
 | 28 | [Day 28: RegEx, Patterns, and Intro to Databases](https://www.hackerrank.com/challenges/30-regex-patterns) | 30 | [solution.py](30%20Days%20of%20Code/Day%2028%3A%20RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/solution.py) |
+| 29 | [Day 29: Bitwise AND](https://www.hackerrank.com/challenges/30-bitwise-and) | 30 | [solution.py](30%20Days%20of%20Code/Day%2029%3A%20Bitwise%20AND/solution.py) |
 
 ## 10 Days of Statistics
 
