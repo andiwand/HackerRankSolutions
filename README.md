@@ -109,6 +109,7 @@ https://www.hackerrank.com/andiwand
 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | 20 | [solution.py](Problem%20Solving/Designer%20PDF%20Viewer/solution.py) |
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | 20 | [solution.py](Problem%20Solving/Picking%20Numbers/solution.py) |
 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | 20 | [solution.py](Problem%20Solving/Climbing%20the%20Leaderboard/solution.py) |
+| [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | 15 | [solution.py](Problem%20Solving/Beautiful%20Days%20at%20the%20Movies/solution.py) |
 
 ## C++
 
