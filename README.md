@@ -110,6 +110,8 @@ https://www.hackerrank.com/andiwand
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | 20 | [solution.py](Problem%20Solving/Picking%20Numbers/solution.py) |
 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | 20 | [solution.py](Problem%20Solving/Climbing%20the%20Leaderboard/solution.py) |
 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | 15 | [solution.py](Problem%20Solving/Beautiful%20Days%20at%20the%20Movies/solution.py) |
+| [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | 15 | [solution.py](Problem%20Solving/Save%20the%20Prisoner!/solution.py) |
+| [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | 15 | [solution.py](Problem%20Solving/Viral%20Advertising/solution.py) |
 
 ## C++
 
