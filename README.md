@@ -112,6 +112,8 @@ https://www.hackerrank.com/andiwand
 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | 15 | [solution.py](Problem%20Solving/Beautiful%20Days%20at%20the%20Movies/solution.py) |
 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | 15 | [solution.py](Problem%20Solving/Save%20the%20Prisoner!/solution.py) |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | 15 | [solution.py](Problem%20Solving/Viral%20Advertising/solution.py) |
+| [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | 20 | [solution.py](Problem%20Solving/Circular%20Array%20Rotation/solution.py) |
+| [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | 20 | [solution.py](Problem%20Solving/Angry%20Professor/solution.py) |
 
 ## C++
 
