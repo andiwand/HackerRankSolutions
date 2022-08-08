@@ -114,6 +114,8 @@ https://www.hackerrank.com/andiwand
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | 15 | [solution.py](Problem%20Solving/Viral%20Advertising/solution.py) |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | 20 | [solution.py](Problem%20Solving/Circular%20Array%20Rotation/solution.py) |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | 20 | [solution.py](Problem%20Solving/Angry%20Professor/solution.py) |
+| [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) | 30 | [solution.py](Problem%20Solving/Intro%20to%20Tutorial%20Challenges/solution.py) |
+| [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | 30 | [solution.py](Problem%20Solving/Sherlock%20and%20The%20Beast/solution.py) |
 
 ## C++
 
