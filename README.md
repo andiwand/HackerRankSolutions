@@ -116,6 +116,7 @@ https://www.hackerrank.com/andiwand
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | 20 | [solution.py](Problem%20Solving/Angry%20Professor/solution.py) |
 | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) | 30 | [solution.py](Problem%20Solving/Intro%20to%20Tutorial%20Challenges/solution.py) |
 | [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | 30 | [solution.py](Problem%20Solving/Sherlock%20and%20The%20Beast/solution.py) |
+| [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | 30 | [solution.py](Problem%20Solving/Insertion%20Sort%20-%20Part%201/solution.py) |
 
 ## C++
 
