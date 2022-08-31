@@ -122,6 +122,7 @@ https://www.hackerrank.com/andiwand
 | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) | 30 | [solution.py](Problem%20Solving/Running%20Time%20of%20Algorithms/solution.py) |
 | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/countingsort1) | 30 | [solution.py](Problem%20Solving/Quicksort%201%20-%20Partition/solution.py) |
 | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) | 30 | [solution.py](Problem%20Solving/Counting%20Sort%201/soltuion.py) |
+| [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) | 30 | [solution.py](Problem%20Solving/Counting%20Sort%202/solution.py) |
 
 ## C++
 
