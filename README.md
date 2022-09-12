@@ -124,6 +124,8 @@ https://www.hackerrank.com/andiwand
 | [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) | 30 | [solution.py](Problem%20Solving/Counting%20Sort%201/soltuion.py) |
 | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) | 30 | [solution.py](Problem%20Solving/Counting%20Sort%202/solution.py) |
 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | 40 | [solution.py](Problem%20Solving/The%20Full%20Counting%20Sort/solution.py) |
+| [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | 30 | [solution.py](Problem%20Solving/Ice%20Cream%20Parlor/solution.py) |
+| [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | 20 | [solution.py](Problem%20Solving/Big%20Sorting/solution.py) |
 
 ## C++
 
