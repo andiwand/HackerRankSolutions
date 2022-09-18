@@ -127,6 +127,7 @@ https://www.hackerrank.com/andiwand
 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | 30 | [solution.py](Problem%20Solving/Ice%20Cream%20Parlor/solution.py) |
 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | 20 | [solution.py](Problem%20Solving/Big%20Sorting/solution.py) |
 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) | 30 | [solution.py](Problem%20Solving/Roads%20and%20Libraries/solution.py) |
+| [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | 50 | [solution.py](Problem%20Solving/Journey%20to%20the%20Moon/solution.py) |
 
 ## C++
 
