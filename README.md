@@ -128,6 +128,7 @@ https://www.hackerrank.com/andiwand
 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | 20 | [solution.py](Problem%20Solving/Big%20Sorting/solution.py) |
 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) | 30 | [solution.py](Problem%20Solving/Roads%20and%20Libraries/solution.py) |
 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | 50 | [solution.py](Problem%20Solving/Journey%20to%20the%20Moon/solution.py) |
+| [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach) | 55 | [solution.py](Problem%20Solving/Breadth%20First%20Search%3A%20Shortest%20Reach/solution.py) |
 
 ## C++
 
