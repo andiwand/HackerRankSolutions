@@ -129,6 +129,7 @@ https://www.hackerrank.com/andiwand
 | [Roads and Libraries](https://www.hackerrank.com/challenges/torque-and-development) | 30 | [solution.py](Problem%20Solving/Roads%20and%20Libraries/solution.py) |
 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | 50 | [solution.py](Problem%20Solving/Journey%20to%20the%20Moon/solution.py) |
 | [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach) | 55 | [solution.py](Problem%20Solving/Breadth%20First%20Search%3A%20Shortest%20Reach/solution.py) |
+| [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) | 60 | [solution.py](Problem%20Solving/Dijkstra%3A%20Shortest%20Reach%202/solution.py) |
 
 ## C++
 
