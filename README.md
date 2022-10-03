@@ -121,7 +121,7 @@ https://www.hackerrank.com/andiwand
 | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) | 30 | [solution.py](Problem%20Solving/Correctness%20and%20the%20Loop%20Invariant/solution.py) |
 | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) | 30 | [solution.py](Problem%20Solving/Running%20Time%20of%20Algorithms/solution.py) |
 | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/countingsort1) | 30 | [solution.py](Problem%20Solving/Quicksort%201%20-%20Partition/solution.py) |
-| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) | 30 | [solution.py](Problem%20Solving/Counting%20Sort%201/soltuion.py) |
+| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) | 30 | [solution.py](Problem%20Solving/Counting%20Sort%201/solution.py) |
 | [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) | 30 | [solution.py](Problem%20Solving/Counting%20Sort%202/solution.py) |
 | [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | 40 | [solution.py](Problem%20Solving/The%20Full%20Counting%20Sort/solution.py) |
 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | 30 | [solution.py](Problem%20Solving/Ice%20Cream%20Parlor/solution.py) |
@@ -130,6 +130,8 @@ https://www.hackerrank.com/andiwand
 | [Journey to the Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | 50 | [solution.py](Problem%20Solving/Journey%20to%20the%20Moon/solution.py) |
 | [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach) | 55 | [solution.py](Problem%20Solving/Breadth%20First%20Search%3A%20Shortest%20Reach/solution.py) |
 | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) | 60 | [solution.py](Problem%20Solving/Dijkstra%3A%20Shortest%20Reach%202/solution.py) |
+| [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub) | 60 | [solution.py](Problem%20Solving/Prim's%20(MST)%20%3A%20Special%20Subtree/solution.py) |
+| [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub) | 50 | [solution.py](Problem%20Solving/Kruskal%20(MST)%3A%20Really%20Special%20Subtree/solution.py) |
 
 ## C++
 
