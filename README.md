@@ -133,6 +133,7 @@ https://www.hackerrank.com/andiwand
 | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub) | 60 | [solution.py](Problem%20Solving/Prim's%20(MST)%20%3A%20Special%20Subtree/solution.py) |
 | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub) | 50 | [solution.py](Problem%20Solving/Kruskal%20(MST)%3A%20Really%20Special%20Subtree/solution.py) |
 | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | 75 | [solution.cpp]() |
+| [Even Tree](https://www.hackerrank.com/challenges/even-tree) | 50 | [solution.py](Problem%20Solving/Even%20Tree/solution.py) |
 
 ## C++
 
