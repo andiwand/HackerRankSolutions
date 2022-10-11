@@ -16,16 +16,24 @@ def floyd(road_nodes, road_edges, road_from, road_to, road_weight, x, y):
     inf = int(139651)
 
     dist = [[inf for j in range(road_nodes)] for i in range(road_nodes)]
+    connected_to = {}
     for i in range(road_nodes):
         dist[i][i] = 0
+        connected_to[i] = {}
     for i,j,w in zip(road_from, road_to, road_weight):
         dist[i][j] = w
+        connected_to[i][j] = w
 
-    for k in range(road_nodes):
-        for i in range(road_nodes):
-            for j in range(road_nodes):
-                if dist[i][j] > dist[i][k] + dist[k][j]:
-                    dist[i][j] = dist[i][k] + dist[k][j]
+    for i in range(road_nodes):
+        for _ in range(road_nodes):
+            done = True
+            for k in range(road_nodes):
+                for j in connected_to[k].keys():
+                    if dist[i][j] > dist[i][k] + dist[k][j]:
+                        dist[i][j] = dist[i][k] + dist[k][j]
+                        done = False
+            if done:
+                break
 
     return [dist[i][j] if dist[i][j] < inf else -1 for i,j in zip(x,y)]
 
