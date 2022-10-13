@@ -12,10 +12,10 @@ def floyd(road_nodes, road_edges, road_from, road_to, road_weight, x, y):
     road_to = [i-1 for i in road_to]
     x = [i-1 for i in x]
     y = [i-1 for i in y]
-    
+
     inf = int(139651)
 
-    dist = [[inf for j in range(road_nodes)] for i in range(road_nodes)]
+    dist = [[inf for _ in range(road_nodes)] for _ in range(road_nodes)]
     connected_to = {}
     for i in range(road_nodes):
         dist[i][i] = 0

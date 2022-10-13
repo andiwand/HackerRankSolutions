@@ -132,8 +132,9 @@ https://www.hackerrank.com/andiwand
 | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) | 60 | [solution.py](Problem%20Solving/Dijkstra%3A%20Shortest%20Reach%202/solution.py) |
 | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub) | 60 | [solution.py](Problem%20Solving/Prim's%20(MST)%20%3A%20Special%20Subtree/solution.py) |
 | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub) | 50 | [solution.py](Problem%20Solving/Kruskal%20(MST)%3A%20Really%20Special%20Subtree/solution.py) |
-| [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | 75 | [solution.cpp]() |
+| [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | 75 | [solution.py](Problem%20Solving/Floyd%20%3A%20City%20of%20Blinding%20Lights/solution.py) |
 | [Even Tree](https://www.hackerrank.com/challenges/even-tree) | 50 | [solution.py](Problem%20Solving/Even%20Tree/solution.py) |
+| [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up) | 50 | [solution.py](Problem%20Solving/Snakes%20and%20Ladders%3A%20The%20Quickest%20Way%20Up/solution.py) |
 
 ## C++
 
