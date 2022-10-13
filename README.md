@@ -135,6 +135,7 @@ https://www.hackerrank.com/andiwand
 | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | 75 | [solution.py](Problem%20Solving/Floyd%20%3A%20City%20of%20Blinding%20Lights/solution.py) |
 | [Even Tree](https://www.hackerrank.com/challenges/even-tree) | 50 | [solution.py](Problem%20Solving/Even%20Tree/solution.py) |
 | [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up) | 50 | [solution.py](Problem%20Solving/Snakes%20and%20Ladders%3A%20The%20Quickest%20Way%20Up/solution.py) |
+| [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | 45 | [solution.py](Problem%20Solving/Fibonacci%20Modified/solution.py) |
 
 ## C++
 
