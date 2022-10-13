@@ -16,44 +16,27 @@ import sys
 #
 
 def quickestWayUp(ladders, snakes):
-    inf = 100
+    portals = {i:j for i,j in (ladders+snakes)}
     
-    dead = set([i for i,_ in ladders] + [i for i,_ in snakes])
+    current = [1]
+    seen = set([1])
+    depth = 1
     
-    nodes = [i for i in range(1,101)]
-    edges = []
+    while current:
+        next_current = set()
+        for i in current:
+            for j in range(i+1, min(i+7, 101)):
+                if j in portals:
+                    j = portals[j]
+                if j == 100:
+                    return depth
+                if j not in seen:
+                    next_current.add(j)
+        current = list(next_current)
+        seen.update(next_current)
+        depth += 1
     
-    for i in range(1,101):
-        if i in dead:
-            continue
-        for d in range(1,7):
-            j = i+d
-            if j > 100:
-                break
-            edges.append((i,j,1))
-    
-    for i,j in ladders:
-        edges.append((i,j,0))
-    for i,j in snakes:
-        edges.append((i,j,0))
-    
-    sol = floyd(nodes,edges, inf)
-    return sol[1][100] if sol[1][100] != inf else -1
-
-def floyd(nodes, edges, inf):
-    dist = {i:{j:inf for j in nodes} for i in nodes}
-    for i in nodes:
-        dist[i][i] = 0
-    for i,j,w in edges:
-        dist[i][j] = w
-    
-    for k in nodes:
-        for i in nodes:
-            for j in nodes:
-                if dist[i][j] > dist[i][k] + dist[k][j]:
-                    dist[i][j] = dist[i][k] + dist[k][j]
-    
-    return dist
+    return -1
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
