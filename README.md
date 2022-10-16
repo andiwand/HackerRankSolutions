@@ -136,6 +136,7 @@ https://www.hackerrank.com/andiwand
 | [Even Tree](https://www.hackerrank.com/challenges/even-tree) | 50 | [solution.py](Problem%20Solving/Even%20Tree/solution.py) |
 | [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up) | 50 | [solution.py](Problem%20Solving/Snakes%20and%20Ladders%3A%20The%20Quickest%20Way%20Up/solution.py) |
 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | 45 | [solution.py](Problem%20Solving/Fibonacci%20Modified/solution.py) |
+| [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | 50 | [solution.py](Problem%20Solving/The%20Maximum%20Subarray/solution.py) |
 
 ## C++
 
