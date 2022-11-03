@@ -138,6 +138,11 @@ https://www.hackerrank.com/andiwand
 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | 45 | [solution.py](Problem%20Solving/Fibonacci%20Modified/solution.py) |
 | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | 50 | [solution.py](Problem%20Solving/The%20Maximum%20Subarray/solution.py) |
 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | 60 | [solution.py](Problem%20Solving/The%20Coin%20Change%20Problem/solution.py) |
+| [Candies](https://www.hackerrank.com/challenges/candies) | 50 | [solution.py](Problem%20Solving/Candies/solution.py) |
+| [Equal](https://www.hackerrank.com/challenges/equal) | 30 | [solution.py](Problem%20Solving/Equal/solution.py) |
+| [Stock Maximize](https://www.hackerrank.com/challenges/stockmax) | 50 | [solution.py](Problem%20Solving/Stock%20Maximize/solution.py) |
+| [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | 50 | [solution.py](Problem%20Solving/Sherlock%20and%20Cost/solution.py) |
+| [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings) | 40 | [solution.py](Problem%20Solving/Sam%20and%20substrings/solution.py) |
 
 ## C++
 
