@@ -143,6 +143,7 @@ https://www.hackerrank.com/andiwand
 | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax) | 50 | [solution.py](Problem%20Solving/Stock%20Maximize/solution.py) |
 | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | 50 | [solution.py](Problem%20Solving/Sherlock%20and%20Cost/solution.py) |
 | [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings) | 40 | [solution.py](Problem%20Solving/Sam%20and%20substrings/solution.py) |
+| [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | 15 | [solution.py](Problem%20Solving/Marc's%20Cakewalk/solution.py) |
 
 ## C++
 
