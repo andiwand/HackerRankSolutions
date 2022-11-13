@@ -143,6 +143,10 @@ https://www.hackerrank.com/andiwand
 | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax) | 50 | [solution.py](Problem%20Solving/Stock%20Maximize/solution.py) |
 | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | 50 | [solution.py](Problem%20Solving/Sherlock%20and%20Cost/solution.py) |
 | [Sam and substrings](https://www.hackerrank.com/challenges/sam-and-substrings) | 40 | [solution.py](Problem%20Solving/Sam%20and%20substrings/solution.py) |
+| [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back) | 65 | [solution.py](Problem%20Solving/Red%20John%20is%20Back/solution.py) |
+| [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack) | 60 | [solution.py](Problem%20Solving/Knapsack/solution.py) |
+| [Bricks Game](https://www.hackerrank.com/challenges/play-game) | 55 | [solution.py](Problem%20Solving/Bricks%20Game/solution.py) |
+| [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | 15 | [solution.py](Problem%20Solving/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py) |
 
 ## C++
 
