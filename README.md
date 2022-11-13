@@ -147,6 +147,7 @@ https://www.hackerrank.com/andiwand
 | [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack) | 60 | [solution.py](Problem%20Solving/Knapsack/solution.py) |
 | [Bricks Game](https://www.hackerrank.com/challenges/play-game) | 55 | [solution.py](Problem%20Solving/Bricks%20Game/solution.py) |
 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | 15 | [solution.py](Problem%20Solving/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py) |
+| [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | 15 | [solution.py](Problem%20Solving/Marc's%20Cakewalk/solution.py) |
 
 ## C++
 
