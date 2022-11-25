@@ -149,6 +149,9 @@ https://www.hackerrank.com/andiwand
 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | 15 | [solution.py](Problem%20Solving/Minimum%20Absolute%20Difference%20in%20an%20Array/solution.py) |
 | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | 15 | [solution.py](Problem%20Solving/Marc's%20Cakewalk/solution.py) |
 | [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge) | 20 | [solution.py](Problem%20Solving/Grid%20Challenge/solution.py) |
+| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | 20 | [solution.py](Problem%20Solving/Luck%20Balance/solution.py) |
+| [Abbreviation](https://www.hackerrank.com/challenges/abbr) | 40 | [solution.py](Problem%20Solving/Abbreviation/solution.py) |
+| [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | 20 | [solution.py](Problem%20Solving/Maximum%20Perimeter%20Triangle/solution.py) |
 
 ## C++
 
