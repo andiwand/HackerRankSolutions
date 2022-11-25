@@ -7,36 +7,48 @@ import re
 import sys
 
 #
-# Complete the 'luckBalance' function below.
+# Complete the 'abbreviation' function below.
 #
-# The function is expected to return an INTEGER.
+# The function is expected to return a STRING.
 # The function accepts following parameters:
-#  1. INTEGER k
-#  2. 2D_INTEGER_ARRAY contests
+#  1. STRING a
+#  2. STRING b
 #
 
-def luckBalance(k, contests):
-    impcontests = sorted([x[0] for x in contests if x[1] == 1])
-    unimpcontests = [x[0] for x in contests if x[1] == 0]
-    l = max(0, len(impcontests) - k)
-    return -sum(impcontests[:l]) + sum(impcontests[l:]) + sum(unimpcontests)
+def abbreviation(a, b):
+    def abbr(a, b, mem):
+        if (a, b) in mem:
+            return mem[(a, b)]
+        if len(a) < len(b):
+            result = False
+        elif not b:
+            result = a.lower() == a
+        elif a[0].isupper():
+            if a[0] != b[0]:
+                result = False
+            else:
+                result = abbr(a[1:], b[1:], mem)
+        elif a[0].upper() != b[0]:
+            result = abbr(a[1:], b, mem)
+        else:
+            result = abbr(a[1:], b, mem) or abbr(a[1:], b[1:], mem)
+        mem[(a, b)] = result
+        return result
+    sys.setrecursionlimit(10000)
+    return 'YES' if abbr(a, b, {}) else 'NO'
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    first_multiple_input = input().rstrip().split()
+    q = int(input().strip())
 
-    n = int(first_multiple_input[0])
+    for q_itr in range(q):
+        a = input()
 
-    k = int(first_multiple_input[1])
+        b = input()
 
-    contests = []
+        result = abbreviation(a, b)
 
-    for _ in range(n):
-        contests.append(list(map(int, input().rstrip().split())))
-
-    result = luckBalance(k, contests)
-
-    fptr.write(str(result) + '\n')
+        fptr.write(result + '\n')
 
     fptr.close()
