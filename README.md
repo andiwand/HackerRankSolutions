@@ -152,6 +152,7 @@ https://www.hackerrank.com/andiwand
 | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | 20 | [solution.py](Problem%20Solving/Luck%20Balance/solution.py) |
 | [Abbreviation](https://www.hackerrank.com/challenges/abbr) | 40 | [solution.py](Problem%20Solving/Abbreviation/solution.py) |
 | [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | 20 | [solution.py](Problem%20Solving/Maximum%20Perimeter%20Triangle/solution.py) |
+| [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent) | 60 | [solution.py](Problem%20Solving/The%20Longest%20Increasing%20Subsequence/solution.py) |
 
 ## C++
 
